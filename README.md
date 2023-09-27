@@ -8,3 +8,6 @@ analysis through a SQL pool created within the Synapse Studio.
 
 A Power BI visualization also provides a visual aspect and analysis on the transformed data by grouping the data by multiple measures and dimensions. The title of each 
 visualization describes the analysis performed.
+
+Source:
+https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data
